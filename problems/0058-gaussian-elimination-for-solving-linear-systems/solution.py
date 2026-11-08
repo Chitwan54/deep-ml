@@ -8,4 +8,5 @@ def gaussian_elimination(A, b):
 	:param b: Right-hand side vector
 	:return: Solution vector x
 	"""
+	
 	return np.matmul(np.linalg.inv(A), b) 
