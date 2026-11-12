@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T06:00:36.975Z",
+  "generated_at": "2026-11-12T06:00:45.836Z",
   "items": {
     "problem:195": {
       "kind": "problem",
@@ -186,7 +186,7 @@
       "url": "https://www.deep-ml.com/math-problems/14",
       "path": "math/0014-orthogonality-and-projections",
       "first_solved_at": "2026-11-12T06:00:36.259Z",
-      "last_pushed_at": "2026-11-12T06:00:36.259Z"
+      "last_pushed_at": "2026-11-12T06:00:45.177Z"
     }
   }
 }
