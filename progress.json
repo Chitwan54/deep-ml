@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T06:21:35.459Z",
+  "generated_at": "2026-11-13T10:32:35.628Z",
   "items": {
     "problem:195": {
       "kind": "problem",
@@ -187,6 +187,19 @@
       "path": "math/0014-orthogonality-and-projections",
       "first_solved_at": "2026-11-12T06:00:36.259Z",
       "last_pushed_at": "2026-11-12T06:06:20.796Z"
+    },
+    "problem:215": {
+      "kind": "problem",
+      "id": "215",
+      "title": "Partial Derivatives of Multivariable Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/215",
+      "path": "problems/0215-partial-derivatives-of-multivariable-functions",
+      "first_solved_at": "2026-11-13T10:32:34.974Z",
+      "last_pushed_at": "2026-11-13T10:32:34.974Z",
+      "language": "python",
+      "lines": 49
     }
   }
 }
